@@ -52,4 +52,16 @@ Open a terminal in the `dist/` directory and run:
 # Additional step : Weighted correction
 ./run_step_addition_caculation -i xxx.xlsx
 
+Requirements:
 
+Linux system (Ubuntu/CentOS/…)  or  Windows..
+
+No Python environment required
+
+Software for academic use only (see LICENSE.txt)
+
+
+📞 Contact | 联系方式
+Author: Jiaqi Fan
+GitHub: fanjiaqi777
+E-mail: fjq690510307@gmail.com
