@@ -1,9 +1,55 @@
-# 💻 PreMap.V1.0
-## 🤷‍♂️ 应该就是它了！
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)![GitHub Stars](https://img.shields.io/github/stars/fanjiaqi777/Automatic_Program.svg)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fanjiaqi777&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🍑 PreMap (Linux Release v1.0)
 
-## 🍑这是一个专门为桃设计的自动化处理大数据的项目
+**Ultra-high-density linkage map construction & genotype data processing software**  
+**超高密度遗传图谱构建与基因型数据处理软件**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue?logo=python)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux-green?logo=linux)](https://www.linux.org/)
+[![License](https://img.shields.io/badge/License-Custom-yellow)](LICENSE.txt)
+[![Made with Pandas](https://img.shields.io/badge/Made%20with-Pandas-150458?logo=pandas)](https://pandas.pydata.org/)
+[![Made with Numpy](https://img.shields.io/badge/Made%20with-NumPy-013243?logo=numpy)](https://numpy.org/)
+[![GitHub stars](https://img.shields.io/github/stars/fanjiaqi777/PreMap-V1.0-release?style=social)](https://github.com/fanjiaqi777/PreMap-V1.0-release)
+
+---
+
+## 📌 Introduction | 软件简介
+**PreMap** is a modular software package for processing diploid genotype data of hybrid populations (full-sib families).  
+It supports ultra-high-density linkage map construction and step-by-step genotype data cleaning and transformation.
+
+**PreMap** 是一个模块化软件包，用于处理杂交组合群体（全同胞家系）的二倍体基因型数据。  
+支持超高密度遗传图谱构建，以及分步的基因型数据清理与转换。
+
+---
+
+## 📂 Contents | 包含内容
+- **`dist/`**: Executable files for Linux (**no Python or dependency installation required**)  
+  Linux 可执行文件（无需安装 Python 或依赖）
+- **`test/`**: Example datasets and file format preparation examples  
+  测试数据集与文件格式示例
+- **`LICENSE.txt`**: Software usage license  
+  软件使用许可
+- **`README.md`**: User guide  
+  用户指南
+
+---
+
+## 🚀 Usage | 使用方法
+Open a terminal in the `dist/` directory and run:
+
+```bash
+# Step 0 : VCF processing
+./run_step0 -i input.vcf
+
+# Step 0.5 : Pre-process Excel
+./run_step0_5 -i input_file.xlsx
+
+# Step 1 ~ Step 4 : Main workflow
+./run_step1 -i xxx.xlsx
+./run_step2 -i xxx.xlsx
+./run_step3 -i xxx.xlsx
+./run_step4 -i xxx.xlsx
+
+# Additional step : Weighted correction
+./run_step_addition_caculation -i xxx.xlsx
+
+
