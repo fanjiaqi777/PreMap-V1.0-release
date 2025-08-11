@@ -33,24 +33,24 @@ It supports ultra-high-density linkage map construction and step-by-step genotyp
 
 ---
 
-## 🚀 Usage | 使用方法
+## 🚀 Usage（Quick Start） | 使用方法(快速开始)
 Open a terminal in the `dist/` directory and run:
 
 ```bash
 # Step 0 : VCF processing
-./run_step0 -i input.vcf
+./dist/run_step0 -i input.vcf
 
 # Step 0.5 : Pre-process Excel
-./run_step0_5 -i input_file.xlsx
+./dist/run_step0_5 -i input_file.xlsx
 
 # Step 1 ~ Step 4 : Main workflow
-./run_step1 -i xxx.xlsx
-./run_step2 -i xxx.xlsx
-./run_step3 -i xxx.xlsx
-./run_step4 -i xxx.xlsx
+./dist/run_step1 -i xxx.xlsx
+./dist/run_step2 -i xxx.xlsx
+./dist/run_step3 -i xxx.xlsx
+./dist/run_step4 -i xxx.xlsx
 
 # Additional step : Weighted correction
-./run_step_addition_caculation -i xxx.xlsx
+./dist/run_step_addition_caculation -i xxx.xlsx
 
 Requirements:
 
