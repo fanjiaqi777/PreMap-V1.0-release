@@ -68,7 +68,9 @@ Author: Jiaqi Fan
 GitHub: fanjiaqi777
 E-mail: fjq690510307@gmail.com
 
+---
 
-<p align="center"> <img src="images/windows3.png" alt="windows3" width="500"> </p> ```
-
+<p align="center">
+  <img src="images/windows3.png" alt="windows3" width="500">
+</p>
 
