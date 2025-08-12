@@ -70,6 +70,8 @@ E-mail: fjq690510307@gmail.com
 
 ---
 
+📷 **Program Screenshot | 程序截图**
+
 <p align="center">
   <img src="images/windows3.png" alt="windows3" width="500">
 </p>
