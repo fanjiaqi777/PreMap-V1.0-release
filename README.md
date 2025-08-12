@@ -69,17 +69,9 @@ GitHub: fanjiaqi777
 E-mail: fjq690510307@gmail.com
 
 
+<p align="center">
+  <img src="images/windows3.png" alt="windows3" width="500">
+</p>
 
-| Step 0.5 | Step 1 |
-|----------|--------|
-| ![](images/win0.5.png) | ![](images/windows1.png) |
-
-| Step 2 | Step 3 |
-|--------|--------|
-| ![](images/windows2.png) | ![](images/windows3.png) |
-
-| Step 4 |
-|--------|
-| ![](images/windows4.png) |
 
 
