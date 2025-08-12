@@ -32,6 +32,21 @@ It supports ultra-high-density linkage map construction and step-by-step genotyp
   用户指南
 
 ---
+<p align="center">
+  <img src="images/win0.5.png" alt="win0.5" width="500">
+</p>
+
+<p align="center">
+  <img src="images/windows1.png" alt="windows1" width="500">
+  <img src="images/windows2.png" alt="windows2" width="500">
+</p>
+
+<p align="center">
+  <img src="images/windows3.png" alt="windows3" width="500">
+  <img src="images/windows4.png" alt="windows4" width="500">
+</p>
+
+
 
 ## 🚀 Usage（Quick Start） | 使用方法(快速开始)
 Open a terminal in the `dist/` directory and run:
