@@ -32,19 +32,6 @@ It supports ultra-high-density linkage map construction and step-by-step genotyp
   用户指南
 
 ---
-<p align="center">
-  <img src="images/win0.5.png" alt="win0.5" width="500">
-</p>
-
-<p align="center">
-  <img src="images/windows1.png" alt="windows1" width="500">
-  <img src="images/windows2.png" alt="windows2" width="500">
-</p>
-
-<p align="center">
-  <img src="images/windows3.png" alt="windows3" width="500">
-  <img src="images/windows4.png" alt="windows4" width="500">
-</p>
 
 
 
@@ -80,3 +67,9 @@ Software for academic use only (see LICENSE.txt)
 Author: Jiaqi Fan
 GitHub: fanjiaqi777
 E-mail: fjq690510307@gmail.com
+
+
+
+
+  <img src="images/windows3.png" alt="windows3" width="500">
+
