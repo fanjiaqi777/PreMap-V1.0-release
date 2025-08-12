@@ -70,6 +70,16 @@ E-mail: fjq690510307@gmail.com
 
 
 
+| Step 0.5 | Step 1 |
+|----------|--------|
+| ![](images/win0.5.png) | ![](images/windows1.png) |
 
-  <img src="images/windows3.png" alt="windows3" width="500">
+| Step 2 | Step 3 |
+|--------|--------|
+| ![](images/windows2.png) | ![](images/windows3.png) |
+
+| Step 4 |
+|--------|
+| ![](images/windows4.png) |
+
 
