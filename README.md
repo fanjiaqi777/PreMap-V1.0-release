@@ -33,8 +33,6 @@ It supports ultra-high-density linkage map construction and step-by-step genotyp
 
 ---
 
-
-
 ## 🚀 Usage（Quick Start） | 使用方法(快速开始)
 Open a terminal in the `dist/` directory and run:
 
@@ -53,26 +51,28 @@ Open a terminal in the `dist/` directory and run:
 
 # Additional step : Weighted correction
 ./dist/run_step_addition_caculation -i xxx.xlsx
-
-Requirements:
-
-Linux system (Ubuntu/CentOS/…)  or  Windows..
-
-No Python environment required
-
-Software for academic use only (see LICENSE.txt)
-
-
-📞 Contact | 联系方式
-Author: Jiaqi Fan
-GitHub: fanjiaqi777
-E-mail: fjq690510307@gmail.com
+```
 
 ---
 
-📸 **Program Screenshot** | 程序截图
+**Requirements**:
+
+Linux system (Ubuntu/CentOS/…)  or  Windows.  
+No Python environment required.  
+
+Software for academic use only (see LICENSE.txt)  
+
+---
+
+📞 **Contact | 联系方式**  
+Author: Jiaqi Fan  
+GitHub: fanjiaqi777  
+E-mail: fjq690510307@gmail.com  
+
+---
+
+📸 **Program Screenshot | 程序截图**  
 
 <p align="center">
   <img src="images/windows3.png" alt="windows3" width="500">
 </p>
-
