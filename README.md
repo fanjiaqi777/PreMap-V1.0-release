@@ -11,21 +11,20 @@
 [![GitHub stars](https://img.shields.io/github/stars/fanjiaqi777/PreMap-V1.0-release?style=social)](https://github.com/fanjiaqi777/PreMap-V1.0-release)
 
 ---
-
 ## 📌 Introduction | 软件简介
-**PreMap** is a modular software package for processing diploid genotype data of hybrid populations (full-sib families).  
-It supports ultra-high-density linkage map construction and step-by-step genotype data cleaning and transformation.
-
-**PreMap** 是一个模块化软件包，用于处理杂交组合群体（全同胞家系）的二倍体基因型数据。  
-支持超高密度遗传图谱构建，以及分步的基因型数据清理与转换。
-
----
 ---
 
 ## 📊 Workflow Overview | 总体流程
 <p align="center">
   <img src="images/Pepline-eng-01.jpg" alt="PreMap Pipeline" width="700">
 </p>
+
+
+**PreMap** is a modular software package for processing diploid genotype data of hybrid populations (full-sib families).  
+It supports ultra-high-density linkage map construction and step-by-step genotype data cleaning and transformation.
+
+**PreMap** 是一个模块化软件包，用于处理杂交组合群体（全同胞家系）的二倍体基因型数据。  
+支持超高密度遗传图谱构建，以及分步的基因型数据清理与转换。
 
 ---
 ## 📂 Contents | 包含内容
