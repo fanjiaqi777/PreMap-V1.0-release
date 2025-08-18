@@ -20,7 +20,14 @@ It supports ultra-high-density linkage map construction and step-by-step genotyp
 支持超高密度遗传图谱构建，以及分步的基因型数据清理与转换。
 
 ---
+---
 
+## 📊 Workflow Overview | 总体流程
+<p align="center">
+  <img src="images/Pepline-eng-01.jpg" alt="PreMap Pipeline" width="700">
+</p>
+
+---
 ## 📂 Contents | 包含内容
 - **`dist/`**: Executable files for Linux (**no Python or dependency installation required**)  
   Linux 可执行文件（无需安装 Python 或依赖）
